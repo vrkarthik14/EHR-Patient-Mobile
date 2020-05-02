@@ -1,4 +1,4 @@
-package com.ehr_patient_mobile;
+package com.ehrpatient;
 
 import org.junit.Test;
 

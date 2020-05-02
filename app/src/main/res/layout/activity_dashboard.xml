@@ -6,4 +6,14 @@
     android:layout_height="match_parent"
     tools:context="com.ehrpatient.DashboardActivity">
 
+    <Button
+        android:id="@+id/qr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="97dp"
+        android:layout_marginLeft="97dp"
+        android:layout_marginTop="173dp"
+        android:text="Button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
